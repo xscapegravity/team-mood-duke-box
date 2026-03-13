@@ -1,0 +1,5 @@
+{
+  "name": "Team Mood Jukebox",
+  "description": "A collaborative agent that aggregates team moods to find and play a representative song.",
+  "requestFramePermissions": []
+}
